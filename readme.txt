@@ -15,9 +15,12 @@ git checkout
     git branch dev
     git checkout dev
 
+
 git branch 查看当前分支, 列出所有分支，当前分支有星号
+-d 删除指定分支
 
 
+git merge A 合并A分支到当前分支
 
 
-
+Creating a new branch is quick AND simple.
