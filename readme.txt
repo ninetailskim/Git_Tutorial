@@ -31,3 +31,7 @@ Creating a new branch is quick AND simple.
 所以在merge的时候要先切回要merge入的分支！
 
 用 --no-ff 合并时可以保留原分支，之前的不会保留分支
+
+git stash 保存现场
+
+git remote 
