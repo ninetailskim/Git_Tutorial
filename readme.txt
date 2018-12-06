@@ -27,3 +27,5 @@ Creating a new branch is quick & simple.
 Creating a new branch is quick AND simple.
 
 ???feature1???
+
+所以在merge的时候要先切回要merge入的分支！
